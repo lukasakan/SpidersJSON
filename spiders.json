@@ -1,6 +1,11 @@
 {
   "slides": [
     {
+      "title": "Simbiot-Spider-Man",
+      "image": "https://raw.githubusercontent.com/lukasakan/SpidersJSON/refs/heads/main/spiderman.png",
+      "description": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Widely regarded as one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays."
+    },
+    {
       "title": "Spider-Man",
       "image": "https://raw.githubusercontent.com/lukasakan/SpidersJSON/refs/heads/main/spiderman.png",
       "description": "Spider-Man is a superhero in American comic books published by Marvel Comics. Created by writer-editor Stan Lee and artist Steve Ditko, he first appeared in the anthology comic book Amazing Fantasy #15 (August 1962) in the Silver Age of Comic Books. Widely regarded as one of the most popular and commercially successful superheroes, he has been featured in comic books, television shows, films, video games, novels, and plays."
